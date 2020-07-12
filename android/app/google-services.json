@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54060903293",
+    "firebase_url": "https://darmika-asoy.firebaseio.com",
+    "project_id": "darmika-asoy",
+    "storage_bucket": "darmika-asoy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54060903293:android:24b672e0d2e2a593c3ba14",
+        "android_client_info": {
+          "package_name": "com.darmika.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54060903293-muruf4eb1stnlnagtibs40c97skehr5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw0e4AW8UCPqhgl3hK0OMIPpeM1_5qkhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54060903293-muruf4eb1stnlnagtibs40c97skehr5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
